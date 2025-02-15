@@ -1,7 +1,6 @@
-"use client"
+"use client";
 import styles from '../styles/Home.module.css';
 import Link from 'next/link';
-import { Router } from 'next/router';
 
 const Home = () => {
     const navigationItems = [
